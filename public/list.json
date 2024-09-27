@@ -1,0 +1,140 @@
+[
+    {
+        "id": 1,
+        "name": "The Great Gatsby",
+        "title": "A novel written by American author F. Scott Fitzgerald.",
+        "price": 10,
+        "category": "fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 2,
+        "name": "To Kill a Mockingbird",
+        "title": "A novel by Harper Lee published in 1960.",
+        "price": 12,
+        "category": "fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 3,
+        "name": "A Brief History of Time",
+        "title": "A popular-science book on cosmology by British physicist Stephen Hawking.",
+        "price": 15,
+        "category": "science",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Clean Code",
+        "title": "A Handbook of Agile Software Craftsmanship by Robert C. Martin.",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 5,
+        "name": "The Pragmatic Programmer",
+        "title": "Your Journey to Mastery by Andrew Hunt and David Thomas.",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 6,
+        "name": "1984",
+        "title": "A dystopian social science fiction novel and cautionary tale ",
+        "price": 8,
+        "category": "fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Sapiens: A Brief History of Humankind",
+        "title": "A book by Yuval Noah Harari surveying the history of humankind.",
+        "price": 20,
+        "category": "history",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Educated",
+        "title": "A Memoir by Tara Westover novel and cautionary tale.",
+        "price": 0,
+        "category": "biography",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Thinking, Fast and Slow",
+        "title": "A best-selling book by Nobel Memorial Prize in Economic Sciences ",
+        "price": 0,
+        "category": "psychology",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Atomic Habits",
+        "title": "An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear.",
+        "price": 0,
+        "category": "self-help",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 11,
+        "name": "The Lean Startup",
+        "title": "How Today's Entrepreneurs Use Continuous Innovation to Create Radically.",
+        "price": 0,
+        "category":"free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 12,
+        "name": "The Art of War",
+        "title": "An ancient Chinese military treatise dating from the Late Spring and Autumn .",
+        "price": 10,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 13,
+        "name": "The Power of Now",
+        "title": "A Guide to Spiritual Enlightenment by Eckhart Tolle.",
+        "price": 15,
+        "category": "spirituality",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 14,
+        "name": "The Subtle Art ",
+        "title": "A Counterintuitive Approach to Living a Good Life by Mark Manson.",
+        "price": 12,
+        "category": "self-help",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+   
+    {
+        "id": 16,
+        "name": "You Don't Know JS",
+        "title": "A book series on JavaScript by Kyle Simpson lorem jav=s js js js.",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Eloquent JavaScript",
+        "title": "A Modern Introduction to Programming by Marijn Haverbeke.",
+        "price": 34,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    },
+    {
+        "id": 18,
+        "name": " Theory of Computation",
+        "title": "A book by Michael Sipser on the mathematical theory of computation.",
+        "price": 0,
+        "category": "free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg"
+    }
+    
+]
